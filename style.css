@@ -1,0 +1,63 @@
+.forBlock {
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+   
+    background-color: aqua;
+    border: 3px rgb(136, 71, 71);
+
+}
+.help {
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+   
+    background-color: aqua;
+    border: 3px black;
+
+}
+.me {
+    display: block;
+    padding: 10px;
+    margin: 10px;
+   
+    background-color: aqua;
+    border: 3px black;
+
+}
+.boy {
+    display: none;
+    padding: 10px;
+    margin: 10px;
+   
+    background-color: aqua;
+    border: 3px black;
+
+}
+.user {
+    display: none;
+    padding: 30px;
+    margin: 30px;
+   
+    background-color: aqua;
+    border: 3px black;
+
+}
+.acblock {
+    display: block;
+    padding: 10px;
+    margin: 10px;
+   
+    background-color: aqua;
+    border: 3px black;
+
+}
+.bcBlock {
+    display: block;
+    padding: 10px;
+    margin: 10px;
+   
+    background-color: aqua;
+    border: 3px black;
+
+}
